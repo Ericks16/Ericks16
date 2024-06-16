@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Web Dinámica</title>
+    <link rel="shortcut icon" href="icono.jpg">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <img src="logo.jpg" alt="Logo de la empresa">
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#valores">Valores</a></li>
+                    <li><a href="#clientes">Clientes</a></li>
+                    <li><a href="#productos">Productos</a></li>
+                    <li><a href="#promociones">Promociones</a></li>
+                    <li><a href="#contacto">Contacto</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <div class="banner">
+
+        <img src="banner.jpg" alt="Banner promocional">
+        <div class="banner-content">
+            <h2>¡Gran oferta!</h2>
+            <p>Aprovecha nuestros descuentos especiales por tiempo limitado.</p>
+            <a href="#promociones" class="btn">Ver promociones</a>
+        </div>
+    </div>
+    
+
+    <main>
+
+        <section class="features">
+            <div class="container">
+                <h2>Nuestros Servicios</h2>
+                <div class="grid">
+                    <div class="feature">
+                        <img src="skincare.webp" alt="SkinCare">
+                        <h3>SkinCare</h3>
+                        <p>El skin care es el cuidado que le damos a nuestra piel para mantenerla saludable. Se asocia con las rutinas que seguimos y los productos que usamos para lucir una piel fresca y sana. Una buena rutina de skin care debe incluir en sus pasos: limpieza, nutrición y protección, para que podamos ver los beneficios.</p>
+                    </div>
+                    <div class="feature">
+                        <img src="pastillas.webp" alt="Medicamentos">
+                        <h3>Medicamentos</h3>
+                        <p>Los medicamentos son compuestos químicos que se utilizan para curar, detener o prevenir enfermedades; para aliviar síntomas; o para ayudar a diagnosticar algunas enfermedades. Los avances en los medicamentos han hecho posible que lo médicos curen muchas enfermedades y salven muchas vidas..</p>
+                    </div>
+                    <div class="feature">
+                        <img src="vacunas.jpg" alt="Vacunas">
+                        <h3>Vacunas</h3>
+                        <p>La vacunación es una forma sencilla, inocua y eficaz de protegernos contra enfermedades dañinas antes de entrar en contacto con ellas. Las vacunas activan las defensas naturales del organismo para que aprendan a resistir a infecciones específicas, y fortalecen el sistema inmunitario.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <section class="product">
+        <div class="container">
+            <h2>Nombre del Producto</h2>
+            <p>Descripción del producto.</p>
+            <p>Precio: $XX.XX</p>
+            <form action="#" method="post">
+                <input type="number" name="quantity" min="1" value="1">
+                <input type="submit" value="Agregar al carrito" class="btn add-to-cart">
+            </form>
+        </div>
+        <div class="heart-container">
+            <div class="heart"></div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <section class="contact-info">
+                <h2>Contacto</h2>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15959.174190489104!2d-78.50176521284182!3d-0.2019055000000031!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a0ccc1b555f%3A0xe10d8642beeecdc0!2sFybeca%20Coru%C3%B1a!5e0!3m2!1ses-419!2sec!4v1718392822972!5m2!1ses-419!2sec" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <p>Teléfono: 0998584026</p>
+                <p>&copy; 2024 Todos los derechos reservados.</p>
+            </section>
+            <section class="social-media">
+                <h2>Redes Sociales</h2>
+                <div class="social-box">
+                    <a href="https://www.facebook.com" target="_blank">
+                        <img src="facebook.png" alt="Facebook">
+                    </a>
+                </div>
+                <div class="social-box">
+                    <a href="https://www.twitter.com" target="_blank">
+                        <img src="twiter.webp" alt="Twitter">
+                    </a>
+                </div>
+                <div class="email-section">
+                    <h2>Enviar Correo Electrónico</h2>
+                    <form action="#" method="post">
+                        <input type="text" name="name" placeholder="Tu Nombre" required>
+                        <input type="email" name="email" placeholder="Tu Correo Electrónico" required>
+                        <textarea name="message" placeholder="Tu Mensaje" required></textarea>
+                        <button type="submit">Enviar</button>
+                    </form>
+                </div>
+            </section>
+        </div>
+    </footer>
+
+
+</body>
+</html>
