@@ -14,15 +14,15 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0014,30:1a0033,60:330066,100:ff006e&height=320&section=header&text=ERICK%20SEBASTIÁN&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=「Erazo%20Rodríguez」&descSize=30&descAlignY=62&animation=fadeIn&fontAlign=50&stroke=00f0ff&strokeWidth=2" />
 </a>
 
-<!-- ═══ TYPING EFFECT MULTI-LINE ═══ -->
+<!-- ═══ TYPING EFFECT — Mirror funcional (readme-typing-svg.herokuapp.com) ═══ -->
 
 <a href="https://github.com/Ericks16">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=2800&pause=600&color=00F0FF&center=true&vCenter=true&multiline=false&width=1000&height=80&lines=⚡+SOFTWARE+ENGINEERING+STUDENT+⚡;%3C+FRONTEND+ENGINEER+%2F%3E;%3C+WEB+3.0+%26+BLOCKCHAIN+DEV+%2F%3E;%3C+AI+%26+AUTOMATION+ENTHUSIAST+%2F%3E;%3C+CYBERSECURITY+EXPLORER+%2F%3E;%E2%9D%96+ALWAYS+BUILDING.+ALWAYS+LEARNING.+%E2%9D%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=2800&pause=600&color=00F0FF&center=true&vCenter=true&multiline=false&width=1000&height=80&lines=⚡+SOFTWARE+ENGINEERING+STUDENT+⚡;%3C+FRONTEND+ENGINEER+%2F%3E;%3C+WEB+3.0+%26+BLOCKCHAIN+DEV+%2F%3E;%3C+AI+%26+AUTOMATION+ENTHUSIAST+%2F%3E;%3C+CYBERSECURITY+EXPLORER+%2F%3E;❖+ALWAYS+BUILDING.+ALWAYS+LEARNING.+❖" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ═══ BADGES SUPERIORES — VIEWS, FOLLOWERS, STARS ═══ -->
+<!-- ═══ BADGES SUPERIORES ═══ -->
 
 <img src="https://komarev.com/ghpvc/?username=Ericks16&label=PROFILE+VIEWS&color=ff006e&style=for-the-badge&labelColor=0a0014" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/Ericks16?label=FOLLOWERS&style=for-the-badge&color=00f0ff&labelColor=0a0014" alt="Followers" />
@@ -32,12 +32,13 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
+<!-- DIVISOR ANIMADO CON GRADIENTE NEÓN -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 👨‍💻 SECCIÓN: WHOAMI — CON DRAGÓN ANIMADO                                         -->
+<!-- 👨‍💻 SECCIÓN: WHOAMI                                                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <table>
@@ -75,7 +76,7 @@ const developer: SoftwareEngineer = {
 <div align="center">
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=400&color=FF006E&center=true&vCenter=true&multiline=true&width=380&height=140&lines=⚛++REACT+%26+ANGULAR;💎++SOLIDITY+%26+WEB3;🤖++AI+%26+AUTOMATION;🔒++CYBERSECURITY;🎨++UI%2FUX+%26+DESIGN" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=400&color=FF006E&center=true&vCenter=true&multiline=true&width=380&height=140&lines=⚛++REACT+%26+ANGULAR;💎++SOLIDITY+%26+WEB3;🤖++AI+%26+AUTOMATION;🔒++CYBERSECURITY;🎨++UI%2FUX+%26+DESIGN" />
 </div>
 
 </td>
@@ -83,7 +84,7 @@ const developer: SoftwareEngineer = {
 </table>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎯 SECCIÓN: WHAT I DO — CON ROBOT IA ANIMADO                                    -->
+<!-- 🎯 SECCIÓN: WHAT I DO — 3 TARJETAS CON GIFs                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -120,11 +121,11 @@ const developer: SoftwareEngineer = {
 
 <br/>
 
-<!-- DIVISOR NEÓN ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%" />
+<!-- DIVISOR ANIMADO -->
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4da1-80f7-ddf1f3afe635.gif" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🛠️ SECCIÓN: TECH STACK — INSIGNIAS POR CATEGORÍA                                -->
+<!-- 🛠️ SECCIÓN: TECH STACK                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="40"> `>_ TECH_ARSENAL`
@@ -179,10 +180,11 @@ const developer: SoftwareEngineer = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%" />
+<!-- DIVISOR ANIMADO -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 SECCIÓN: GITHUB STATS — TARJETAS LADO A LADO                                 -->
+<!-- 📊 SECCIÓN: GITHUB STATS                                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="40"> `>_ NEURAL_STATS.dat`
@@ -204,17 +206,17 @@ const developer: SoftwareEngineer = {
 
 <br/><br/>
 
-<!-- ACTIVITY GRAPH ANIMADO -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ericks16&theme=react-dark&bg_color=0a0014&color=00f0ff&line=ff006e&point=a855f7&hide_border=true&area=true&area_color=a855f7&custom_title=⚡+ACTIVITY+TIMELINE+⚡" width="100%" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%" />
+<!-- DIVISOR ANIMADO -->
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4da1-80f7-ddf1f3afe635.gif" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🐍 SECCIÓN: SNAKE — CON GIF PIXEL ART                                           -->
+<!-- 🐍 SECCIÓN: SNAKE                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -235,7 +237,8 @@ const developer: SoftwareEngineer = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%" />
+<!-- DIVISOR ANIMADO -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🏆 SECCIÓN: TROFEOS                                                             -->
@@ -255,10 +258,11 @@ const developer: SoftwareEngineer = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%" />
+<!-- DIVISOR ANIMADO -->
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4da1-80f7-ddf1f3afe635.gif" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 💻 SECCIÓN: CODING STATS — METRICS                                              -->
+<!-- 💻 SECCIÓN: MATRIX METRICS                                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -311,7 +315,8 @@ const developer: SoftwareEngineer = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%" />
+<!-- DIVISOR ANIMADO -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 💭 SECCIÓN: DAILY QUOTE                                                         -->
@@ -327,10 +332,11 @@ const developer: SoftwareEngineer = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%" />
+<!-- DIVISOR ANIMADO -->
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4da1-80f7-ddf1f3afe635.gif" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 📫 SECCIÓN: CONNECT — LINKS Y REDES                                             -->
+<!-- 📫 SECCIÓN: CONNECT                                                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -359,23 +365,27 @@ const developer: SoftwareEngineer = {
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎬 FOOTER ANIMADO CON CRIATURA                                                  -->
+<!-- 🎬 FOOTER ANIMADO                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
+<!-- COHETE ANIMADO LATERAL -->
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100%" height="120" />
 
 <br/>
 
+<!-- BANNER FOOTER ONDULADO -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,30:a855f7,60:6d28d9,100:0a0014&height=180&section=footer&text=THANKS%20FOR%20VISITING%20⚡&fontSize=32&fontColor=ffffff&fontAlignY=70&animation=twinkling&desc=「+CODE+IS+POETRY+WRITTEN+IN+LOGIC+」&descSize=18&descAlignY=88" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=3000&pause=1000&color=FF006E&center=true&vCenter=true&width=600&height=50&lines=⚡+SYSTEM+SHUTDOWN+IN+3...+2...+1...+⚡;⚡+CONNECTION+TERMINATED+⚡;⚡+SEE+YOU+IN+THE+METAVERSE+⚡" />
+<!-- TYPING EFFECT FINAL -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=20&duration=3000&pause=1000&color=FF006E&center=true&vCenter=true&width=600&height=50&lines=⚡+SYSTEM+SHUTDOWN+IN+3...+2...+1...+⚡;⚡+CONNECTION+TERMINATED+⚡;⚡+SEE+YOU+IN+THE+METAVERSE+⚡" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
+<!-- LÍNEA DECORATIVA FINAL ANIMADA (reemplazo del trinib roto) -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 </div>
