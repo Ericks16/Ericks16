@@ -5,7 +5,7 @@
 <!-- HEADER: FONDO SYNTHWAVE ANIMADO (SVG propio) + TÍTULO -->
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="synthwave animated background" />
+<img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="100%" height="200" alt="animated background" />
 
 <a href="https://github.com/Ericks16">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0014,30:1a0033,60:330066,100:ff006e&height=300&section=header&text=ERICK%20SEBASTIÁN%20ERAZO&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=%E3%80%8C%20Software%20Engineer%20%C2%B7%20Frontend%20%C2%B7%20Web3%20%C2%B7%20AI%20%E3%80%8D&descSize=22&descAlignY=60&animation=fadeIn&fontAlign=50&stroke=00f0ff&strokeWidth=2" />
@@ -78,13 +78,9 @@ const developer: SoftwareEngineer = {
 
 <div align="center">
 
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="58" height="58" alt="react" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="58" height="58" alt="typescript" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="58" height="58" alt="javascript" />
+<img src="https://skillicons.dev/icons?i=react,angular,ts,js,solidity,python&theme=dark" />
 <br/>
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="58" height="58" alt="python" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="58" height="58" alt="docker" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="58" height="58" alt="mysql" />
+<img src="https://skillicons.dev/icons?i=docker,mysql,git,figma,vscode,vercel&theme=dark" />
 
 <br/><br/>
 
@@ -106,7 +102,7 @@ const developer: SoftwareEngineer = {
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="90" height="90" alt="react 3D" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="80" alt="react" />
 <br/><br/>
 <b>FRONTEND</b>
 <br/>
@@ -120,7 +116,7 @@ const developer: SoftwareEngineer = {
 <sub>Smart contracts, dApps, blockchain integration with Solidity & Ethers.js</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="90" height="90" alt="python 3D" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="80" alt="python" />
 <br/><br/>
 <b>AI & AUTOMATION</b>
 <br/>

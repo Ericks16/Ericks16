@@ -7,9 +7,10 @@
   </defs>
   <g filter="url(#eglow)">
     <g>
-      <!-- pulso de giro suave -->
+      <!-- balanceo MUY lento y suave (no marea) -->
       <animateTransform attributeName="transform" type="rotate"
-        values="-6 128 208; 6 128 208; -6 128 208" dur="5s" repeatCount="indefinite"/>
+        values="-3 128 208; 3 128 208; -3 128 208" dur="11s" repeatCount="indefinite" calcMode="spline"
+        keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
       <polygon fill="#00f0ff" points="127.9 0 125.2 9.5 125.2 285.2 127.9 287.9 255.9 212.3"/>
       <polygon fill="#7b3fe4" points="127.9 0 0 212.3 127.9 287.9 127.9 154.2"/>
       <polygon fill="#00c2ff" points="127.9 312.2 126.4 314 126.4 412.3 127.9 416.9 256 236.6"/>
@@ -18,8 +19,4 @@
       <polygon fill="#5b27b0" points="0 212.3 127.9 287.9 127.9 154.2"/>
     </g>
   </g>
-  <!-- destello de brillo global -->
-  <rect width="256" height="417" fill="#00f0ff" opacity="0">
-    <animate attributeName="opacity" values="0;0.12;0" dur="3s" repeatCount="indefinite"/>
-  </rect>
 </svg>
