@@ -8,10 +8,10 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213760697-1dc2db8c-9560-43df-8d2b-a30d025e842a.gif" width="100%" height="180" />
+<img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="100%" height="200" alt="lofi animated background" />
 
 <a href="https://github.com/Ericks16">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0014,30:1a0033,60:330066,100:ff006e&height=320&section=header&text=ERICK%20SEBASTIÁN&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=「Erazo%20Rodríguez」&descSize=30&descAlignY=62&animation=fadeIn&fontAlign=50&stroke=00f0ff&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0014,30:1a0033,60:330066,100:ff006e&height=300&section=header&text=ERICK%20SEBASTIÁN%20ERAZO&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=%E3%80%8C%20Software%20Engineer%20%C2%B7%20Frontend%20%C2%B7%20Web3%20%C2%B7%20AI%20%E3%80%8D&descSize=22&descAlignY=60&animation=fadeIn&fontAlign=50&stroke=00f0ff&strokeWidth=2" />
 </a>
 
 <!-- ═══ TYPING EFFECT — Mirror funcional (readme-typing-svg.herokuapp.com) ═══ -->
@@ -31,6 +31,9 @@
 <img src="https://img.shields.io/badge/LOCATION-QUITO,_EC-00f0ff?style=for-the-badge&labelColor=0a0014" />
 
 <br/><br/>
+
+<!-- MASCOTA: NYAN CAT CRUZANDO TODO EL ANCHO -->
+<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="100%" height="60" alt="nyan cat mascot crossing the screen" />
 
 <!-- DIVISOR ANIMADO CON GRADIENTE NEÓN -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
@@ -94,21 +97,21 @@ const developer: SoftwareEngineer = {
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/W3QKEujo8vztC/giphy.gif" width="120" />
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="180" />
 <br/><br/>
 <b>🎨 FRONTEND</b>
 <br/>
 <sub>Building beautiful, performant web experiences with React, Angular & TypeScript</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="120" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="120" />
 <br/><br/>
 <b>🌐 WEB 3.0</b>
 <br/>
 <sub>Smart contracts, dApps, blockchain integration with Solidity & Ethers.js</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/ZE0DG23q7s2dcpHcRk/giphy.gif" width="120" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="100" height="100" />
 <br/><br/>
 <b>🤖 AI & AUTOMATION</b>
 <br/>
