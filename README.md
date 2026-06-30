@@ -33,12 +33,12 @@
 <br/><br/>
 
 <!-- MASCOTAS: EQUIPO POKÉMON ANIMADO CRUZANDO EL PERFIL -->
-<img src="https://play.pokemonshowdown.com/sprites/ani/greninja.gif" height="58" alt="greninja" />&nbsp;&nbsp;&nbsp;
-<img src="https://play.pokemonshowdown.com/sprites/ani/lucario.gif" height="58" alt="lucario" />&nbsp;&nbsp;&nbsp;
-<img src="https://play.pokemonshowdown.com/sprites/ani/mewtwo.gif" height="64" alt="mewtwo" />&nbsp;&nbsp;&nbsp;
-<img src="https://play.pokemonshowdown.com/sprites/ani/rayquaza.gif" height="70" alt="rayquaza" />&nbsp;&nbsp;&nbsp;
-<img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" height="58" alt="gengar" />&nbsp;&nbsp;&nbsp;
-<img src="https://play.pokemonshowdown.com/sprites/ani/pikachu.gif" height="52" alt="pikachu" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/greninja.gif" height="105" alt="greninja" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://play.pokemonshowdown.com/sprites/ani/lucario.gif" height="105" alt="lucario" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://play.pokemonshowdown.com/sprites/ani/mewtwo.gif" height="115" alt="mewtwo" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://play.pokemonshowdown.com/sprites/ani/rayquaza.gif" height="125" alt="rayquaza" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" height="105" alt="gengar" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://play.pokemonshowdown.com/sprites/ani/pikachu.gif" height="95" alt="pikachu" />
 
 <br/>
 <sub><i>「 Gotta commit 'em all 」</i></sub>
@@ -87,8 +87,17 @@ const developer: SoftwareEngineer = {
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> `>_ SKILLSET`
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="200" alt="developer animation" />
+
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="58" height="58" alt="react" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="58" height="58" alt="typescript" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="58" height="58" alt="javascript" />
 <br/>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="58" height="58" alt="python" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="58" height="58" alt="docker" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="58" height="58" alt="mysql" />
+
+<br/><br/>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=400&color=FF006E&center=true&vCenter=true&multiline=true&width=380&height=140&lines=⚛++REACT+%26+ANGULAR;💎++SOLIDITY+%26+WEB3;🤖++AI+%26+AUTOMATION;🔒++CYBERSECURITY;🎨++UI%2FUX+%26+DESIGN" />
 </div>
 
@@ -151,9 +160,6 @@ const developer: SoftwareEngineer = {
 </p>
 
 ### 🌐 Web 3.0 & Blockchain
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="90" alt="blockchain node animation" />
-
 <p>
 <img src="https://skillicons.dev/icons?i=solidity&theme=dark" />
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0a0014" />
@@ -168,10 +174,6 @@ const developer: SoftwareEngineer = {
 </p>
 
 ### 🤖 AI & Automation
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="90" alt="AI robot animation" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="python rotating 3D icon" />
-
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a0014" />
@@ -257,6 +259,19 @@ const developer: SoftwareEngineer = {
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Ericks16/Ericks16/output/github-snake-dark.svg" width="100%" />
 </picture>
 
+<br/><br/>
+
+## 👾 `>_ PACMAN_MAP.exe`
+
+<sub><i>Pac-Man devorando todo mi mapa de contribuciones 🟡</i></sub>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ericks16/Ericks16/pacman/pacman-contribution-graph-dark.svg" />
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/Ericks16/Ericks16/pacman/pacman-contribution-graph.svg" width="100%" />
+</picture>
+
 </div>
 
 <br/>
@@ -297,7 +312,7 @@ const developer: SoftwareEngineer = {
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" alt="tech automation animation" />
+<img src="./assets/tech-automation.gif" width="100%" alt="tech automation animation" />
 
 <br/>
 
