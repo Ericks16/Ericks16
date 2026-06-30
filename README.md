@@ -32,9 +32,6 @@
 
 <br/><br/>
 
-<!-- MASCOTA: NYAN CAT CRUZANDO TODO EL ANCHO -->
-<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="100%" height="60" alt="nyan cat mascot crossing the screen" />
-
 <!-- DIVISOR ANIMADO CON GRADIENTE NEÓN -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
@@ -77,7 +74,7 @@ const developer: SoftwareEngineer = {
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> `>_ SKILLSET`
 
 <div align="center">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
+<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="200" alt="developer animation" />
 <br/>
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=400&color=FF006E&center=true&vCenter=true&multiline=true&width=380&height=140&lines=⚛++REACT+%26+ANGULAR;💎++SOLIDITY+%26+WEB3;🤖++AI+%26+AUTOMATION;🔒++CYBERSECURITY;🎨++UI%2FUX+%26+DESIGN" />
 </div>
@@ -97,21 +94,21 @@ const developer: SoftwareEngineer = {
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="180" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="100" height="100" alt="react 3D" />
 <br/><br/>
 <b>🎨 FRONTEND</b>
 <br/>
 <sub>Building beautiful, performant web experiences with React, Angular & TypeScript</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="120" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="120" alt="blockchain network" />
 <br/><br/>
 <b>🌐 WEB 3.0</b>
 <br/>
 <sub>Smart contracts, dApps, blockchain integration with Solidity & Ethers.js</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="100" height="100" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="100" height="100" alt="python 3D" />
 <br/><br/>
 <b>🤖 AI & AUTOMATION</b>
 <br/>
@@ -287,7 +284,7 @@ const developer: SoftwareEngineer = {
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" height="220" />
+<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" alt="tech automation animation" />
 
 <br/>
 
