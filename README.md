@@ -38,6 +38,11 @@
 
 </div>
 
+<!-- GATITO PIXEL QUE CAMINA, DUERME Y DESPIERTA -->
+<div align="center">
+<img src="./assets/cat.svg" width="100%" alt="pixel kitten walking, sleeping and waking up" />
+</div>
+
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
@@ -255,7 +260,7 @@ const developer: SoftwareEngineer = {
 
 ## `>_ ACHIEVEMENTS.unlocked`
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ericks16&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultipleLang,Experience,Reviews" />
+<img src="./assets/coming-soon.svg" width="70%" alt="achievements coming soon" />
 
 </div>
 
