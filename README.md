@@ -138,23 +138,34 @@ const developer: SoftwareEngineer = {
 </p>
 
 ### 🌐 Web 3.0 & Blockchain
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="90" alt="blockchain node animation" />
+
 <p>
 <img src="https://skillicons.dev/icons?i=solidity&theme=dark" />
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0a0014" />
 <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white&labelColor=0a0014" />
 <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0a0014" />
 <img src="https://img.shields.io/badge/Hardhat-F0D58E?style=for-the-badge&logo=ethereum&logoColor=black&labelColor=0a0014" />
+<img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0a0014" />
 <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white&labelColor=0a0014" />
+<img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=0a0014" />
+<img src="https://img.shields.io/badge/Polygon-7B3FE4?style=for-the-badge&logo=polygon&logoColor=white&labelColor=0a0014" />
 <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white&labelColor=0a0014" />
 </p>
 
 ### 🤖 AI & Automation
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="90" alt="AI robot animation" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="python rotating 3D icon" />
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a0014" />
 <img src="https://img.shields.io/badge/Anthropic-D97706?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0a0014" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0a0014" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0a0014" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0a0014" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0a0014" />
 </p>
 
 ### 🔒 Cybersecurity
@@ -350,7 +361,7 @@ const developer: SoftwareEngineer = {
 <a href="https://www.linkedin.com/in/TU-LINKEDIN-AQUI/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0014" />
 </a>
-<a href="mailto:tu-correo@ejemplo.com">
+<a href="mailto:erick.erazo2003@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0014" />
 </a>
 <a href="https://github.com/Ericks16">
