@@ -32,6 +32,19 @@
 
 <br/><br/>
 
+<!-- MASCOTAS: EQUIPO POKÉMON ANIMADO CRUZANDO EL PERFIL -->
+<img src="https://play.pokemonshowdown.com/sprites/ani/greninja.gif" height="58" alt="greninja" />&nbsp;&nbsp;&nbsp;
+<img src="https://play.pokemonshowdown.com/sprites/ani/lucario.gif" height="58" alt="lucario" />&nbsp;&nbsp;&nbsp;
+<img src="https://play.pokemonshowdown.com/sprites/ani/mewtwo.gif" height="64" alt="mewtwo" />&nbsp;&nbsp;&nbsp;
+<img src="https://play.pokemonshowdown.com/sprites/ani/rayquaza.gif" height="70" alt="rayquaza" />&nbsp;&nbsp;&nbsp;
+<img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" height="58" alt="gengar" />&nbsp;&nbsp;&nbsp;
+<img src="https://play.pokemonshowdown.com/sprites/ani/pikachu.gif" height="52" alt="pikachu" />
+
+<br/>
+<sub><i>「 Gotta commit 'em all 」</i></sub>
+
+<br/><br/>
+
 <!-- DIVISOR ANIMADO CON GRADIENTE NEÓN -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
