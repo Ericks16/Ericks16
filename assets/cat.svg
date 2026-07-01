@@ -1,0 +1,105 @@
+<svg viewBox="0 0 1000 300" width="1000" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- ============ GATITO (recorre un área amplia: ancho + alto) ============ -->
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="-170 25; 400 160; 400 160; 1090 45" keyTimes="0;0.30;0.72;1"
+      dur="22s" repeatCount="indefinite"/>
+
+    <!-- sombra -->
+    <ellipse cx="50" cy="138" rx="42" ry="6" fill="#000000" opacity="0.25"/>
+
+    <!-- ====== ESTADO DESPIERTO (camina / se sienta) ====== -->
+    <g>
+      <animate attributeName="opacity" values="1;1;1;0;0;1;1"
+        keyTimes="0;0.30;0.40;0.45;0.69;0.74;1" dur="20s" repeatCount="indefinite"/>
+
+      <!-- bob del cuerpo al caminar -->
+      <g>
+        <animateTransform attributeName="transform" type="translate"
+          values="0 0; 0 -2; 0 0" dur="0.5s" repeatCount="indefinite"/>
+
+        <!-- cola -->
+        <g>
+          <animateTransform attributeName="transform" type="rotate"
+            values="-8 10 110; 6 10 110; -8 10 110" dur="2.2s" repeatCount="indefinite"/>
+          <rect x="2" y="96" width="9" height="9" rx="2" fill="#f5a623"/>
+          <rect x="-1" y="86" width="9" height="9" rx="2" fill="#f5a623"/>
+          <rect x="2" y="77" width="9" height="9" rx="2" fill="#f5a623"/>
+          <rect x="9" y="71" width="9" height="9" rx="2" fill="#f5a623"/>
+        </g>
+
+        <!-- patas (dos pares alternando) -->
+        <g fill="#e08a16">
+          <g>
+            <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="0.5s" repeatCount="indefinite"/>
+            <rect x="18" y="120" width="9" height="16" rx="2"/>
+            <rect x="58" y="120" width="9" height="16" rx="2"/>
+          </g>
+          <g>
+            <animateTransform attributeName="transform" type="translate" values="0 -4;0 0;0 -4" dur="0.5s" repeatCount="indefinite"/>
+            <rect x="8" y="120" width="9" height="16" rx="2"/>
+            <rect x="68" y="120" width="9" height="16" rx="2"/>
+          </g>
+        </g>
+
+        <!-- cuerpo -->
+        <rect x="8" y="96" width="68" height="32" rx="13" fill="#f5a623"/>
+        <rect x="24" y="96" width="5" height="32" fill="#e07b0a" opacity="0.5"/>
+        <rect x="38" y="96" width="5" height="32" fill="#e07b0a" opacity="0.5"/>
+        <rect x="52" y="96" width="5" height="32" fill="#e07b0a" opacity="0.5"/>
+
+        <!-- cabeza -->
+        <rect x="64" y="82" width="36" height="34" rx="11" fill="#f5a623"/>
+        <!-- orejas -->
+        <polygon points="66,86 71,68 81,86" fill="#f5a623"/>
+        <polygon points="83,86 93,68 98,86" fill="#f5a623"/>
+        <polygon points="70,84 73,74 78,84" fill="#ff9eb5"/>
+        <polygon points="86,84 90,74 94,84" fill="#ff9eb5"/>
+        <!-- ojo (parpadea) -->
+        <rect x="86" y="94" width="6" height="7" rx="2" fill="#20140a">
+          <animate attributeName="height" values="7;7;7;1;7;7" keyTimes="0;0.45;0.5;0.55;0.6;1" dur="3.5s" repeatCount="indefinite"/>
+        </rect>
+        <!-- hocico -->
+        <rect x="88" y="103" width="12" height="10" rx="4" fill="#fff7ee"/>
+        <rect x="95" y="105" width="5" height="4" rx="1.5" fill="#ff7aa8"/>
+        <!-- bigotes -->
+        <line x1="100" y1="106" x2="116" y2="102" stroke="#cbb8a0" stroke-width="1.2"/>
+        <line x1="100" y1="109" x2="117" y2="110" stroke="#cbb8a0" stroke-width="1.2"/>
+      </g>
+    </g>
+
+    <!-- ====== ESTADO DORMIDO (enroscado + Zzz) ====== -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0"
+        keyTimes="0;0.43;0.46;0.69;0.72;1" dur="20s" repeatCount="indefinite"/>
+
+      <!-- cuerpo enroscado -->
+      <ellipse cx="50" cy="120" rx="44" ry="20" fill="#f5a623"/>
+      <ellipse cx="50" cy="120" rx="44" ry="20" fill="none" stroke="#e07b0a" stroke-width="2" opacity="0.4"/>
+      <!-- cola enroscando al frente -->
+      <path d="M86 120 q12 -2 8 12 q-3 10 -16 8" fill="none" stroke="#e08a16" stroke-width="9" stroke-linecap="round"/>
+      <!-- cabeza acurrucada -->
+      <circle cx="24" cy="116" r="16" fill="#f5a623"/>
+      <polygon points="14,106 16,92 26,104" fill="#f5a623"/>
+      <polygon points="28,104 36,92 40,106" fill="#f5a623"/>
+      <!-- ojo cerrado -->
+      <path d="M15 116 q5 5 11 0" fill="none" stroke="#20140a" stroke-width="2" stroke-linecap="round"/>
+      <!-- naricita -->
+      <rect x="10" y="118" width="5" height="4" rx="1.5" fill="#ff7aa8"/>
+
+      <!-- Zzz subiendo -->
+      <text x="50" y="96" font-family="'Arial Black',sans-serif" font-size="16" font-weight="900" fill="#00f0ff">z
+        <animate attributeName="y" values="96;72" dur="2.4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;1;0" dur="2.4s" repeatCount="indefinite"/>
+      </text>
+      <text x="62" y="90" font-family="'Arial Black',sans-serif" font-size="20" font-weight="900" fill="#67e8f9">z
+        <animate attributeName="y" values="90;62" dur="2.4s" begin="0.8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="0.8s" repeatCount="indefinite"/>
+      </text>
+      <text x="76" y="84" font-family="'Arial Black',sans-serif" font-size="25" font-weight="900" fill="#a855f7">Z
+        <animate attributeName="y" values="84;52" dur="2.4s" begin="1.6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="1.6s" repeatCount="indefinite"/>
+      </text>
+    </g>
+  </g>
+</svg>

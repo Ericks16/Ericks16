@@ -23,27 +23,63 @@
 
 </div>
 
+<!-- GATITO PIXEL QUE CAMINA, DUERME Y DESPIERTA (área amplia) -->
+<div align="center">
+<img src="./assets/cat.svg" width="100%" alt="pixel kitten walking, sleeping and waking up" />
+</div>
+
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- WHOAMI                                                                          -->
+<!-- WHOAMI + SKILLSET                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## `>_ WHOAMI`
 
 ```typescript
 const developer: SoftwareEngineer = {
-  name: "Erick Sebastián Erazo Rodríguez",
+  name: "Erick Sebastián",
+  surnames: "Erazo Rodríguez",
   alias: "@Ericks16",
+
   location: "Quito, Ecuador",
   university: "EPN — Best in Ecuador",
-  career: "Software Engineering · 7th semester",
-  languages: ["Spanish (native)", "English C1"],
-  focus: ["Frontend", "Web3", "AI & Automation", "Cybersecurity"],
-  status: "Available for work",
-  motto: "Build the future.",
+  career: "Software Engineering",
+  semester: 7,
+
+  languages: {
+    spanish: "Native",
+    english: "C1"
+  },
+
+  status: "Available",
+  motto: "Build the future."
 };
 ```
+
+</td>
+<td width="50%" valign="top">
+
+## `>_ SKILLSET`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,angular,ts,js,solidity,python&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,mysql,git,figma,vscode,vercel&theme=dark" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=400&color=FF006E&center=true&vCenter=true&multiline=true&width=380&height=140&lines=REACT+%26+ANGULAR;SOLIDITY+%26+WEB3;AI+%26+AUTOMATION;CYBERSECURITY;UI%2FUX+%26+DESIGN" />
+</div>
+
+</td>
+</tr>
+</table>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -133,6 +169,20 @@ const developer: SoftwareEngineer = {
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ericks16/Ericks16/pacman/pacman-contribution-graph-dark.svg" />
   <img alt="Pac-Man" src="https://raw.githubusercontent.com/Ericks16/Ericks16/pacman/pacman-contribution-graph.svg" width="100%" />
 </picture>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ACHIEVEMENTS                                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## `>_ ACHIEVEMENTS.unlocked`
+
+<img src="./assets/coming-soon.svg" width="72%" alt="achievements coming soon" />
 
 </div>
 
