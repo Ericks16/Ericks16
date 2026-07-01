@@ -349,7 +349,7 @@ fun_fact: "I debug with coffee"
 <a href="https://github.com/Ericks16">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0014" />
 </a>
-<a href="#">
+<a href="https://portfolio-self-two-63.vercel.app">
   <img src="https://img.shields.io/badge/PORTFOLIO-FF006E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0014" />
 </a>
 
